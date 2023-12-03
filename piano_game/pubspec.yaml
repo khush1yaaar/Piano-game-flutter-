@@ -30,6 +30,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  # cached_network_image : ^3.2.2
+  # audio_video_progress_bar : ^0.11.0
+  # just_audio : ^0.9.30
+  # just_audio_background : ^0.0.1-beta.?
+  # rxdart : ^0.27.5
 
 
   # The following adds the Cupertino Icons font to your application.
